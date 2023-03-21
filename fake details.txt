@@ -1,0 +1,29 @@
+birth date 1999/07/17
+name 	Mr. Nicklaus Abernathy MD
+mail tsgisback02gmail.com
+
+
+
+Street	177 Lake St
+City/Town	Avon
+State/Province/Region	Colorado
+Zip/Postal Code	81620
+Phone Number	(800) 222-4840
+Country	United States
+Latitude	39.638275
+Longitude	-106.527142
+Matched person profile
+Full Name	Mr. Nicklaus Abernathy MD
+Gender	male
+Birthday	1974-12-03
+Social Security Number	232-57-1389
+Finance & Credit Card infomation
+Credit card brand	Visa
+Credit card number	4485027933736430
+Expire	2029/1
+CVV	570
+
+5009203064 
+MRNICKLAUS.ABERNATHYMD@student.csn.edu
+Brandnym@3
+username 5009203064
